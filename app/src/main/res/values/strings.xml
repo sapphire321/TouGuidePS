@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TouGuidePS</string>
+
+    <string name="item_1">Welcome Screen</string>
+    <string name="item_2">Badisch Specialities</string>
+    <string name="item_3">Italian cuisine</string>
+    <string name="item_4">Asian cuisine</string>
+    <string name="item_5">Mediterranean cuisine</string>
+    <string name="cd_logo">logo</string>
+    <string name="open">open navigation drawer</string>
+    <string name="close">close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Description_griestal">Country restaurant serving BIO self grown and prepared dishes.</string>
+    <string name="Header_griestal">Griestal</string>
+    <string name="Header_sanMarino">San Marino</string>
+    <string name="Description_sanMarino">Italian family restaurant from head to toe. Mind blowing taste.</string>
+    <string name="Description_mediFood">Sea food restaurant. Ingredients coming fresh from the sea.</string>
+    <string name="Header_mediFood">Medi Food</string>
+    <string name="Header_LAO">LAO</string>
+    <string name="Description_LAO">Best asian restaurant in the city, fresh and exotic!</string>
+    <string name="welcome_screen">Welcome to your restaurant guide app! Belive us those are the top choices from the region! Just browse through the cusine categories to have an amazing meal experience.</string>
+</resources>
